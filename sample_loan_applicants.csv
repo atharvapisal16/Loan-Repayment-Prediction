@@ -1,0 +1,11 @@
+Applicant_ID,Applicant_Name,credit.policy,purpose,int.rate,installment,log.annual.inc,dti,fico,days.with.cr.line,revol.bal,revol.util,inq.last.6mths,delinq.2yrs,pub.rec
+APP-2026-1001,Alexander Wright,0,debt_consolidation,0.1545,453.52,10.59663473,14.52,657,3810.0,8545,82.2,3,0,0
+APP-2026-1002,Sophia Martinez,1,debt_consolidation,0.1183,533.46,11.15625052,10.89,732,3600.0,15942,40.9,3,0,0
+APP-2026-1003,Marcus Chen,1,credit_card,0.1146,197.75,10.34817337,13.73,692,2069.958333,14154,85.8,0,0,0
+APP-2026-1004,Emily Johnson,0,all_other,0.1646,106.16,11.00209984,28.16,672,6480.041667,7846,25.8,4,1,0
+APP-2026-1005,David Patel,1,all_other,0.1221,159.92,11.12732181,3.99,702,5040.0,468,7.2,1,1,0
+APP-2026-1006,Olivia Taylor,1,debt_consolidation,0.1273,209.79,10.04324949,21.23,687,2760.041667,6867,41.6,0,0,0
+APP-2026-1007,James Anderson,1,major_purchase,0.0894,317.72,10.87804719,13.09,737,2280.041667,3706,11.2,1,0,0
+APP-2026-1008,Isabella Kim,1,debt_consolidation,0.0894,190.63,10.99851024,17.58,722,3030.041667,6908,32.0,2,0,0
+APP-2026-1009,Lucas Garcia,0,debt_consolidation,0.1322,338.01,11.28978191,16.84,697,3570.041667,13948,39.0,4,1,0
+APP-2026-1010,Ava Robinson,1,debt_consolidation,0.1385,682.08,11.15625052,8.16,697,3480.041667,3153,28.9,2,0,0
